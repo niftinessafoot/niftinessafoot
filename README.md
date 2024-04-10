@@ -11,3 +11,18 @@ I’m a consummate tinkerer—many of my own repos are small tools, modules, and
 - **Coffee** ☕️ I owned a coffee house in the once-upon-a-time.
 - **_Dungeons & Dragons_** 🎲 I moonlight as a DM for hire: [Dice Told Tales](https://www.dicetoldtales.com).
 - **Running** 👟 Training for half-marathon distances!
+
+## What's in a Name?
+
+People ask what the username _niftinessafoot_ means. It's two words concatenated:
+
+<dl>
+<dt>niftiness</dt>
+<dd>The state of being neat or clever. _nifty_ + _ness_ </dd>
+<dt>afoot</dt>
+<dd>happening or at-hand</dd>
+<dl>
+
+So in other words, _interesting things are here!_
+
+In some places, I’ve started using the shorthand _afoot_, mostly because _niftiness_ was getting long and hard for people to type—including myself.
